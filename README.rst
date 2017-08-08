@@ -1,3 +1,8 @@
+This is a fork of the official python/cpython repository.
+It is meant for creating a CPython release using modified build settings.
+
+The original README.rst follows below.
+
 This is Python version 3.7.0 alpha 1
 ====================================
 
